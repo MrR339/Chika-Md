@@ -19,9 +19,10 @@ exports.list = (pushname) => {
 }
 
 //—————「 All Menu 」—————//
-  👑 Creator : *Raditya Ganz*
-  🤖 Bot Name : *${botname}*
-  📑 Tanggal : *${tanggal}*
+exports.allmenu = (prefix, pushname, botname, time, salam) => {
+return`  _Selamat ${salam} kak ${pushname}_
+  
+  👑 Creator : *Raditya ganz*
   ⏰ Waktu : *${time}*
   🗒 ️Prefix : *Multi Prefix*
 
