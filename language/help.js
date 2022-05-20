@@ -416,17 +416,6 @@ return`  _Selamat ${salam} kak ${pushname}_
   *≻* ${prefix}setexif
   *≻* ${prefix}setmenu
   *≻* ${prefix}setallmenu
-  
-  *THANKS TO*
-  *≻* DikaArdnt
-  *≻* ZeeoneOfc
-  *≻* FatihArridho
-  *≻* Yoga
-  *≻* Riy
-  *≻* Deff
-  *≻* Sanzy
-  *≻* Nekel
-  *≻* Bagas Prdn
   `
 }
 
@@ -451,29 +440,11 @@ Hai kak ☺️
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan cara donasi
 Berapapun donasi kalian akan sangat berarti 👍
 
-Thanks!
-
-—————「 *SEWA | RUN BOT* 」—————
-
-  *_SEWA BOT_* 
-  *≻* Sewa Bot 15k (1 minggu)
-  *≻* Sewa Bot 20k (1 bulan)
-  *≻* Sewa Bot 25k (Permanen)
-
-  *JADI BOT* 
-  *≻* Jadi Bot 15k Tidak Owner (1 minggu)
-  *≻* Jadi Bot + Owner 20k (1 bulan)
-  *≻* Jadi Bot + Owner 25k (Permanen)
-
-  *JASA RUN BOT*
-  *≻* Run Bot 15k (1 minggu)
-  *≻* Run Bot 20k (1 bulan)
-  *≻* Run Bot 25k (Permanen)
-
-  *Minat? Langsung chat aja ya cuy 🐦*
-
-  *Contact person Owner* :
+ *Donasi? Langsung chat aja ya cuy 🐦*
+  *Contact Owner* :
   wa.me/${ownernomer}
+
+Thanks!
 `
 }
 
