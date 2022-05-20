@@ -22,6 +22,7 @@ exports.list = (pushname) => {
 exports.allmenu = (prefix, pushname, botname, time, salam) => {
 return`  _Selamat ${salam} kak ${pushname}_
 
+  *👤 Owner Bot: ${ownername}
   *⏰ Time Server : ${time}*
   *📚 List Menu : ${botname}*
 
