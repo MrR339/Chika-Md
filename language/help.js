@@ -9,22 +9,25 @@
 exports.menu = (botname, pushname, salam) => {
 	return`Selamat ${salam} kak ${pushname}
 
-Saya ${botname}, Bot Ini Adalah Beta Multi-Device WhatsApp.
-Jika Kamu Menemukan Semacam Bug Atau Kesalahan Mohon Dimaklumi Dulu Ya, Lapor Owner Agar Segera Di Perbaiki🙏`
+Saya ${botname}
+Saya Adalah Bot Beta-Multi-Device Jadi Jikalau Ada Eror AtabSemacamnya Laporkan Kepada Owner Agar Di Perbaiki`
 }
 
 //—————「 List 」—————//
 exports.list = (pushname) => {
-	return`Halo kak ${pushname}, silahkan dipilih list menu dibawah ini`
+	return`Halo kak ${pushname}
+Silahkan Pilih List Di Bawah Ini Ya Kak`
 }
 
 //—————「 All Menu 」—————//
 exports.allmenu = (prefix, pushname, botname, time, salam) => {
 return`  _Selamat ${salam} kak ${pushname}_
 
-  *👤 Owner Bot: ${ownername}
-  *⏰ Time Server : ${time}*
-  *📚 List Menu : ${botname}*
+  👑 Creator : *Raditya Ganz*
+  🤖 Bot Name : *${botname}*
+  📑 Tanggal : *${tanggal}*
+  ⏰ Waktu : *${time}*
+  🗒 ️Prefix : *Multi Prefix*
 
   *GROUP MENU*
   *≻* ${prefix}linkgroup
