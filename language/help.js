@@ -10,19 +10,15 @@ exports.menu = (botname, pushname, salam) => {
 	return`Selamat ${salam} kak ${pushname}
 
 Saya ${botname}
-Saya Adalah Bot Beta-Multi-Device Jadi Jikalau Ada Eror AtabSemacamnya Laporkan Kepada Owner Agar Di Perbaiki`
+Saya Adalah Bot Beta-Multi-Device Jadi Jikalau Ada Eror Atau Semacamnya Laporkan Kepada Owner Agar Di Perbaiki`
 }
 
 //—————「 List 」—————//
 exports.list = (pushname) => {
-	return`Halo kak ${pushname}
-Silahkan Pilih List Di Bawah Ini Ya Kak`
+	return `Silahkan Pilih List Di Bawah Ini Ya Kak ${pushname}`
 }
 
 //—————「 All Menu 」—————//
-exports.allmenu = (prefix, pushname, botname, time, salam) => {
-return`  _Selamat ${salam} kak ${pushname}_
-
   👑 Creator : *Raditya Ganz*
   🤖 Bot Name : *${botname}*
   📑 Tanggal : *${tanggal}*
